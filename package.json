@@ -2,7 +2,7 @@
   "name": "github-issue-analysis",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shhull.github.io/github-issue-analysis",
+  "homepage": "https://shhull.github.test/github-issue-analysis",
   "dependencies": {
     "@octokit/rest": "^15.6.1",
     "parse-github-url": "^1.0.2",
